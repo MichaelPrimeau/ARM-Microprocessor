@@ -1,0 +1,33 @@
+Quartus Prime Archive log --	C:/Users/primeaum/Box/CE1921/Lab/SCP/scpS-EXT.qarlog
+
+Archive:	C:/Users/primeaum/Box/CE1921/Lab/SCP/scpS-EXT.qar
+Date:		Sun May 05 22:18:01 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/primeaum/Box/CE1921/Lab/SCP/Waveform1.vwf
+C:/Users/primeaum/Box/CE1921/Lab/SCP/adder.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/alu.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/barrel.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/busmux2to1.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/constant4.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/constant8.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/controller.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/decode.bdf
+C:/Users/primeaum/Box/CE1921/Lab/SCP/dmem.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/execute.bdf
+C:/Users/primeaum/Box/CE1921/Lab/SCP/extimm.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/fetch.bdf
+C:/Users/primeaum/Box/CE1921/Lab/SCP/irom.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/pc.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/reg4.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/regfile.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/regsrcbmux.vhd
+C:/Users/primeaum/Box/CE1921/Lab/SCP/scp.bdf
+C:/Users/primeaum/Box/CE1921/Lab/SCP/scp.qpf
+C:/Users/primeaum/Box/CE1921/Lab/SCP/scp.qsf
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 22 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
